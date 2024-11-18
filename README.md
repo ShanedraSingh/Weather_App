@@ -13,9 +13,9 @@ A simple weather application built using HTML, CSS, and JavaScript. This app all
 
 ## Technologies Used
 
-- **HTML**: For structuring the application.
+- **HTML**: This is used to structure the application.
 - **CSS**: For styling the application.
-- **JavaScript**: For handling the logic and API integration.
+- **JavaScript**: This is used to handle the logic and API integration.
 
 ## Installation
 
